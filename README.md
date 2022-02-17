@@ -1,7 +1,7 @@
 ### Course-registration-helper 📚
 * 수강 신청 도우미
-* 정보처리산업기사 실기 시험 준비하며 작성한 간단한 연습용 코드입니다.
 * 과목 등록, 수정, 삭제 기능
+* 간단한 Servlet, Jsp 연습용 코드입니다.
 
 
 #### Languages
